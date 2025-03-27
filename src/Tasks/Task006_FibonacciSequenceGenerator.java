@@ -2,7 +2,7 @@ package Tasks;
 
 import java.util.Scanner;
 
-public class Task_006_FibonacciSequenceGenerator {
+public class Task006_FibonacciSequenceGenerator {
     public static void main(String[] args) {
         // Create Scanner object for user input
         Scanner scanner = new Scanner(System.in);

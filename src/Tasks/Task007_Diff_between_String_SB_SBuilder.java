@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task_007_Diff_between_String_SB_SBuilder {
+public class Task007_Diff_between_String_SB_SBuilder {
     public static void main(String[] args) {
 
 
