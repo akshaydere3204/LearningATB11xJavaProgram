@@ -13,9 +13,9 @@ public class Lab210_ENUM {
 
 
         System.out.println(" -- ");
-        System.out.println(APIURLs.google.getUrl());
-        System.out.println(APIURLs.vwo.getUrl());
-        System.out.println(APIURLs.katalon.getUrl());
+        System.out.println(LAB211_APIURLs.google.getUrl());
+        System.out.println(LAB211_APIURLs.vwo.getUrl());
+        System.out.println(LAB211_APIURLs.katalon.getUrl());
 
 
     }
